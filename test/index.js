@@ -68,7 +68,7 @@ describe('cacheman', function () {
       });
     });
   });
-    
+
   it('should store items', function (done) {
     let key = testKey();
     cache.set(key, { a: 1 }, function (err) {
@@ -156,7 +156,7 @@ describe('cacheman', function () {
       });
     });
   });
-  
+
   it('should cache items', function (done) {
     let key = testKey()
       , value = Date.now();
