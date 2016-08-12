@@ -1,6 +1,6 @@
 {
   "name": "@relinklabs/cacheman",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "Small and efficient cache provider for Node.JS with In-memory, Redis and MongoDB engines",
   "author": "Jonathan Brumley <cayasso@gmail.com>",
   "main": "./node/index",
