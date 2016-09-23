@@ -1,3 +1,7 @@
+# RELINK FORK
+
+Added get options. Should probably PR back to original and open a dialogue about how to do this properly. This allows us to use s3 with fromCache features. Maybe not that important for anything other than our crawling...
+
 # cacheman
 
 [![Build Status](https://travis-ci.org/cayasso/cacheman.png?branch=master)](https://travis-ci.org/cayasso/cacheman)
